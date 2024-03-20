@@ -11,4 +11,4 @@ Affiliation: University of Sheffield, UK
 Preprint Link: 
 
 # Proposed Pipeline
-![](images/i2.PNG)
+![](images/i2.png)
