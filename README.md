@@ -12,3 +12,10 @@ Preprint Link:
 
 # Proposed Pipeline
 ![](images/i2.png)
+
+# Proposed Pipeline
+![](images/i3.png)
+
+![](images/i4.png)
+
+![](images/i5.png)
