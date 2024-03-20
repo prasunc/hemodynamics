@@ -1,10 +1,5 @@
 # -*- coding: utf-8 -*-
 
-"""
-Created on Fri Mar  3 10:52:38 2023
-
-@author: Prasun Tripathi
-"""
 
 import matplotlib.pyplot as plt
 import numpy as np
