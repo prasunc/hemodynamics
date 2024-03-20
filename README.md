@@ -10,6 +10,7 @@ Affiliation: University of Sheffield, UK
 
 Preprint Link: 
 
+Steps: 1.Preprocess CMRs, 2.GAT Feature selection, 3. Fusion and Prediction
 # Proposed Pipeline
 ![](images/i2.png)
 
