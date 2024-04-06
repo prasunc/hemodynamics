@@ -5,18 +5,13 @@ from feature_selection import FeatureSelection
 import scipy.io 
 import pandas as pd
 
-num_samples = 2000
-num_features = 100
-num_classes = 2
+
 # Load the raw data and labels from csv file using pandas
 raw_data = pd.read_csv('data.csv')
 labels = pd.read_csv('labels.csv')
 
 
-#raw_data = np.random.randn(num_samples, num_features)
-#labels = np.random.randint(low=0, high=num_classes, size=num_samples)
 
-#Split the training data into training and validation sets
 
 X_train, X_val, y_train, y_val = train_test_split(raw_data, labels, test_size=0.2)
 
