@@ -8,7 +8,7 @@ Author names: Prasun C. Tripathi, Sina Tabakhi, Mohammod N I Suvon, Lawrence Sch
 
 Affiliation: University of Sheffield, UK
 
-Preprint Link: 
+Preprint Link: https://arxiv.org/abs/2404.04718
 
 Steps: 1.Preprocess CMRs, 2.GAT Feature selection, 3. Fusion and Prediction
 # Proposed Pipeline
