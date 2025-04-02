@@ -22,4 +22,4 @@ Steps: 1.Preprocess CMRs, 2.GAT Feature selection, 3. Fusion and Prediction
 ![](images/i5.png)
 
 # Acknowledgement
-The study was supported by the Wellcome Trust grants 215799/Z/19/Z and 205188/Z/16/Z.
+The study was supported by the Wellcome Trust grants (215799/Z/19/Z and 205188/Z/16/Z) and National Institute for Health and Care Research (NIHR), Sheffield Biomedical Research Centre (NIHR203321).
